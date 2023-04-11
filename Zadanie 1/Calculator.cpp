@@ -2,6 +2,7 @@
 #include "calculator.h"
 using namespace std;
 
+
 Calculator::Calculator()
 {
     memory = 0.0;
@@ -18,7 +19,7 @@ void Calculator::info()
 }
 
 void Calculator::debugInfo()
-{   
+{
     #ifdef NDEBUG
         ;
     #else
