@@ -1,0 +1,17 @@
+4
+TV
+200
+2
+PLN
+table
+150
+1
+PLN
+chair
+50
+4
+USD
+lamp
+20
+3
+EUR
